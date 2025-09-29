@@ -4,7 +4,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "kazirafid1010@gmail.com",
-    linkedin: "www.linkedin.com/in/kazi-rafid-nur-ferdous",
+    linkedin: "https://www.linkedin.com/in/kazi-rafid-nur-ferdous/",
     github: "https://github.com/kaziRAFIDnur",
   },
   aboutMe:
