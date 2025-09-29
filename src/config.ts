@@ -1,5 +1,6 @@
 export const siteConfig = {
   name: "Kazi Rafid Nur Ferdous",
+  title: "",
   description: "Portfolio website of Kazi Rafid",
   accentColor: "#1d4ed8",
   social: {
