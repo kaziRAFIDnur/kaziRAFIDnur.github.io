@@ -37,7 +37,7 @@ export const siteConfig = {
     {
       school: "BRAC University",
       degree: "Bachelor of Science in Computer Science and Engineering",
-      dateRange: "2023 - 2027",
+      dateRange: "2023 - Present",
       achievements: [
         "Assistant Director of BRAC University Chess Club (BUCHC)",
         "Completed essential courses in Data Structures, Algorithms and Database Systems",
