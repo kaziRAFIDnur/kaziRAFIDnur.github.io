@@ -1,1 +1,1 @@
-Portfolio Website built with Astro and Tailwind CSS.
+A modern, minimalist Portfolio Website built with Astro and Tailwind CSS. 
