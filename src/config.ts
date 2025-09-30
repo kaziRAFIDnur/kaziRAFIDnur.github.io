@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "Enthusiastic and driven undergraduate student with a passion for leveraging technology in order to solve societal issues and contribute towards creating a positive and meaningful impact with my work.",
-  skills: ["Python", "HTML", "MySQL", "CSS"],
+  skills: ["Python", "Flask", "HTML", "CSS", "MySQL", "Java"],
   projects: [
     {
       name: "MangaForAll",
